@@ -44,4 +44,4 @@ Alle erforderlichen Abhängigkeiten werden automatisch durch den **PackageDownlo
 1. Klone das Repository:
    ```bash
    git clone https://github.com/xeonios-studio/adbgui.git
-   cd ADB-GUI-Tool
+   cd adbgui
